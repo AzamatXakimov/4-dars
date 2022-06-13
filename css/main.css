@@ -1,0 +1,105 @@
+.site-header-box-nav-list-item-link
+{
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 15px;
+    color: #837D88;
+}
+
+.site-header-box-link
+{
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 15px;
+    color: #2C2830;
+}
+
+.site-theme-section
+{
+    background: #2D2641;
+}
+
+.site-theme-section-box-for-theme-theme
+{
+    font-weight: 400;
+    font-size: 72px;
+    line-height: 64px;
+    color: #FFFFFF
+}
+
+.site-theme-section-box-for-theme-description
+{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FFFFFF;
+}
+
+.site-theme-section-box-for-theme-link
+{
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 15px;
+    color: #FFFFFF;
+}
+
+.site-our-services-box-for-theme-theme
+{
+    font-weight: 400;
+    font-size: 72px;
+    line-height: 64px;
+    color: #2C2830;
+}
+
+.site-our-services-box-for-services-list-item-theme
+{
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 38px;
+    color: #2C2830;
+}
+
+.site-our-services-box-for-services-list-item-description
+{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #837D88;
+}
+
+.about-us
+{
+    background: #2D2641;
+}
+
+.about-us-theme
+{
+    font-weight: 400;
+    font-size: 56px;
+    line-height: 56px;
+    color: #FFFFFF;
+}
+
+.about-us-link
+{
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 15px;
+    color: #FFFFFF;
+}
+
+.site-footer-box-text
+{
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 15px;
+    color: #837D88;
+}
+
+.site-footer-box-list-item-link
+{
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 15px;
+    color: #2D2641;
+}
